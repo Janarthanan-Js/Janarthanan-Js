@@ -16,23 +16,29 @@ Building projects, learning new technologies, and turning ideas into reality.
 
 ## 👨‍💻 About Me
 
-<!-- Image: upload your picture to this repo as about.png, or change the file name / width here -->
+<!-- Photo: about.jpg in this repo. Change the file name or width here -->
 <p align="center">
-  <img src="about.png" alt="Coding illustration" width="100%" />
+  <img src="about.jpg" alt="Janarthanan JS" width="220" />
 </p>
 
 ```js
 const janarthanan = {
   name: "Janarthanan JS",
-  role: "Aspiring Full-Stack Developer",
-  branch: "Electronics & Communication",
+  role: "Aspiring Full-Stack",
+  dept: "Electronics & Comm.",
 
-  languages: ["C", "C++", "python"],
-  stack: [
-    "HTML5", "CSS3", "JavaScript",
-    "Node.js", "Express", "MySQL",
+  languages: [
+    "C", "C++", "Python",
   ],
-  tools: ["VS Code", "Git", "GitHub"],
+  stack: [
+    "HTML5", "CSS3",
+    "JavaScript", "Node.js",
+    "Express", "MySQL",
+  ],
+  tools: [
+    "VS Code", "Git",
+    "GitHub",
+  ],
 
   currentlyLearning: [
     "Express",
@@ -46,9 +52,8 @@ const janarthanan = {
     "AI / ML",
   ],
   goals: [
-    "Become a skilled developer",
+    "Become a skilled dev",
     "Build useful products",
-
   ],
 };
 ```
@@ -56,7 +61,7 @@ const janarthanan = {
 ## 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,express,mysql,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,nodejs,express,mysql,git,github,vscode&perline=6" />
 </p>
 
 ## 🚀 Featured Projects
