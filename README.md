@@ -1,40 +1,89 @@
-👋 Hi, I'm Janarthanan JS
+# 👋 Hi, I'm Janarthanan JS
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:355CDE,100:9B59B6&height=180&section=header&text=Janarthanan%20JS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20ECE%20Student&descAlignY=60&descSize=16" width="100%" />💻 Aspiring Full-Stack Developer | ECE Student
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:355CDE,100:9B59B6&height=180&section=header&text=Janarthanan%20JS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20ECE%20Student&descAlignY=60&descSize=16" width="100%" />
+
+💻 Aspiring Full-Stack Developer | ECE Student
 
 Building projects, learning new technologies, and turning ideas into reality.
 
-<img src="https://komarev.com/ghpvc/?username=Janarthanan-Js&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" /></div>---
+<img src="https://komarev.com/ghpvc/?username=Janarthanan-Js&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 
-👨‍💻 About Me
+</div>
 
-- 🎓 Electronics and Communication Engineering student
-- 💻 Aspiring Full-Stack Developer
-- 🌱 Currently learning JavaScript, Node.js, and backend development
-- 🚀 Interested in web development, app development, and embedded systems
-- 🛠️ I enjoy building projects and exploring new technologies
-- 🎯 Goal: Become a skilled software developer and build useful products
+---
 
-🧰 Languages and Tools
+## 👨‍💻 About Me
+
+<!-- Image: upload your picture to this repo as about.png, or change the file name / width here -->
+<p align="center">
+  <img src="about.png" alt="Coding illustration" width="100%" />
+</p>
+
+```js
+const janarthanan = {
+  name: "Janarthanan JS",
+  role: "Aspiring Full-Stack Developer",
+  branch: "Electronics & Communication",
+
+  languages: ["C", "C++", "python"],
+  stack: [
+    "HTML5", "CSS3", "JavaScript",
+    "Node.js", "Express", "MySQL",
+  ],
+  tools: ["VS Code", "Git", "GitHub"],
+
+  currentlyLearning: [
+    "Express",
+    "Node.js",
+    "Backend development",
+  ],
+  interests: [
+    "Web development",
+    "App development",
+    "Embedded systems",
+    "AI / ML",
+  ],
+  goals: [
+    "Become a skilled developer",
+    "Build useful products",
+
+  ],
+};
+```
+
+## 🧰 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,nodejs,express,mysql,git,github,vscode&perline=6" />
-</p>🚀 Featured Projects
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,nodejs,express,mysql,git,github,vscode&perline=6" />
+</p>
+
+## 🚀 Featured Projects
 
 - 🌉 Smart Bridge Structural Alert Controller — A Verilog-based system for monitoring bridge vibration, load, and displacement.
 - 🌍 Wild Horizons — A destination-exploration web application built while learning Node.js.
 - 🦴 OA Screening ML — An osteoarthritis screening project using machine learning and image classification.
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /><img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" /></div>🤝 Connect With Me
+<!-- The username in these 3 URLs must be your GitHub username -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Janarthanan-Js&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janarthanan-Js&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Janarthanan-Js&theme=tokyonight&hide_border=true" />
+</div>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/janarthanan-js-4aa9b237b?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 📧 Email: jsjanarthanan6@gmail.com 
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [Janarthanan JS](https://www.linkedin.com/in/janarthanan-js-4aa9b237b)
+- 📧 Email: jsjanarthanan6@gmail.com
 
 ---
 
-<div align="center">💡 Learn. Build. Improve. Repeat.
+<div align="center">
+
+💡 Learn. Build. Improve. Repeat.
 
 Thanks for visiting my profile! 😊
 
