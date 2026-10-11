@@ -4,7 +4,7 @@
 
 Building projects, learning new technologies, and turning ideas into reality.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" /></div>---
+<img src="https://komarev.com/ghpvc/?username=Janarthanan-Js&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" /></div>---
 
 👨‍💻 About Me
 
