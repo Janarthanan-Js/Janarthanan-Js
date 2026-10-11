@@ -1,9 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Janarthanan%20JS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20ECE%20Student&descAlignY=62&descSize=16)](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Janarthanan%20JS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20ECE%20Student&descAlignY=62&descSize=16)
 
-<p align="center">
-  <b>Full-Stack Web Developer</b> · Frontend → Backend → Database<br/>
-  <em>Turning ideas into full-stack applications, one commit at a time 🚀</em>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Janarthanan+JS+%F0%9F%91%8B;Full-Stack+Developer+%7C+Frontend+%E2%86%92+Backend+%E2%86%92+Database;Building+real-world+web+applications+from+scratch;Turning+coffee+into+code+%E2%98%95%F0%9F%9A%80)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Janarthanan+JS+%F0%9F%91%8B;Full-Stack+Developer+%7C+Frontend+%E2%86%92+Backend+%E2%86%92+Database;Building+real-world+web+applications+from+scratch;Turning+coffee+into+code+%E2%98%95%F0%9F%9A%80)
 
 [![Profile Views](https://hits.sh/github.com/Janarthanan-Js.svg?label=Profile+Views&color=70a5fd&style=flat-square&labelColor=0d1117)](https://hits.sh/github.com/Janarthanan-Js/) &nbsp; [![Followers](https://img.shields.io/github/followers/Janarthanan-Js?label=Followers&style=flat-square&color=bf91f3&logo=github&logoColor=white)](https://github.com/Janarthanan-Js)
 
