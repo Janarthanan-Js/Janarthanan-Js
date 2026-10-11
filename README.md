@@ -20,15 +20,19 @@ class Janarthanan:
 
         self.stack = [
             "HTML5", "CSS3", "JavaScript",
-            "Node.js", "Express", "MySQL"
+            "Node.js", "MySQL"
         ]
 
         self.languages = [
             "Python", "C", "C++"
         ]
 
+        self.microcontrollers = [
+            "Arduino", "ESP32", "Sensor Integration"
+        ]
+
         self.currently_learning = [
-            "React",
+            "Frontend Frameworks",
             "Advanced Node.js & REST APIs",
             "Database Design & Optimization",
             "Deployment & Cloud Foundations"
@@ -60,11 +64,11 @@ print(me.motto())
 
 **🎨 Frontend Development**
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **⚙️ Backend Development**
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) [![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) [![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **🗄️ Database**
 
@@ -76,7 +80,11 @@ print(me.motto())
 
 **🔧 Tools & Platforms**
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) [![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+**🔌 Microcontrollers & Hardware**
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) [![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-38BDAE?style=flat-square&logo=raspberrypi&logoColor=white)](https://img.shields.io/badge/Sensor%20Integration-38BDAE?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ---
 
@@ -94,13 +102,13 @@ print(me.motto())
 
 ## 📈 Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Janarthanan-Js&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=Janarthanan-Js&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+[![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janarthanan-Js&theme=tokyonight)](https://github.com/Janarthanan-Js)
 
 ---
 
 ## 🏆 Trophy Wall
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Janarthanan-Js&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github-profile-trophy.vercel.app/?username=Janarthanan-Js&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+[![GitHub Trophies](https://trophy.ryglcloud.net/?username=Janarthanan-Js&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -197,7 +205,7 @@ print(me.motto())
 ## 🚀 Currently Learning
 
 ```
-⚛️ React               →  Components, Hooks, State Management
+⚛️ Frontend Frameworks  →  Components, Hooks, State Management
 🌐 Node.js & Express   →  REST APIs, Middleware, Server Architecture
 🗄️ Database Design     →  SQL, Indexing, Query Optimization
 ☁️ Deployment            →  Netlify, Vercel, CI/CD Basics
