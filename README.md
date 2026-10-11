@@ -56,7 +56,7 @@ const janarthanan = {
 ## 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,express,mysql,git,github,claude,opencode,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,express,mysql,git,github,vscode&perline=6" />
 </p>
 
 ## 🚀 Featured Projects
