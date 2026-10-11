@@ -84,7 +84,7 @@ print(me.motto())
 
 **🔌 Microcontrollers & Hardware**
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) [![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-38BDAE?style=flat-square&logo=raspberrypi&logoColor=white)](https://img.shields.io/badge/Sensor%20Integration-38BDAE?style=flat-square&logo=raspberrypi&logoColor=white)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) [![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) [![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-38BDAE?style=flat-square)](https://img.shields.io/badge/Sensor%20Integration-38BDAE?style=flat-square)
 
 ---
 
@@ -97,12 +97,6 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Janarthanan-Js&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com?user=Janarthanan-Js&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
-
----
-
-## 📈 Contribution Graph
-
-[![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janarthanan-Js&theme=tokyonight)](https://github.com/Janarthanan-Js)
 
 ---
 
