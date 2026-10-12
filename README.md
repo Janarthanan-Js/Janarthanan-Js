@@ -76,29 +76,20 @@ print(me.motto())
 
 <div align="center">
 
-**🎨 Frontend Development**
+### 🧰 Core Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,sqlite,python,c,cpp,git,github,vscode,arduino,netlify&theme=dark)](https://skillicons.dev)
 
-**⚙️ Backend Development**
+### 🧩 Specialties
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**🗄️ Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-38BDAE?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**🐍 Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-8B89CC?style=for-the-badge&logo=spdx&logoColor=white)
-
-**🔧 Tools & Platforms**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-**🔌 Microcontrollers & Hardware**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-38BDAE?style=for-the-badge)
+| 🔧 Tech | ✨ Skills |
+|:---|:---|
+| 🌐 **Frontend** | HTML5 · CSS3 · JavaScript |
+| ⚙️ **Backend** | Node.js · Express · REST API |
+| 🗄️ **Database** | MySQL · SQLite |
+| 🐍 **Languages** | Python · C · C++ · Verilog |
+| 🧭 **Tools** | VS Code · Git · GitHub · Arduino IDE · Netlify |
+| 🔌 **Hardware** | Arduino · ESP32 · Sensor Integration |
 
 </div>
 
@@ -125,11 +116,13 @@ print(me.motto())
 
 </div>
 
-## 📈 Activity Graph
+## 📈 Contribution Summary
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Janarthanan-Js&bg_color=0d1117&color=bf91f3&line=f778ba&point=70a5fd&area=true&hide_border=true&custom_title=Janarthanan's%20Contribution%20Graph)](https://github.com/Janarthanan-Js)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janarthanan-Js&theme=tokyonight)](https://github.com/Janarthanan-Js)
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Janarthanan-Js&theme=tokyonight)](https://github.com/Janarthanan-Js)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janarthanan-Js&theme=tokyonight)](https://github.com/Janarthanan-Js)
 
 </div>
 
