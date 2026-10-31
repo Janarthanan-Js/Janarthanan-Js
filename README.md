@@ -26,7 +26,8 @@ class Janarthanan:
 
         self.stack = [
             "HTML5", "CSS3", "JavaScript",
-            "Node.js", "MySQL"
+            "Node.js", "MySQL", "TypeScript", "React"
+
         ]
 
         self.languages = [
