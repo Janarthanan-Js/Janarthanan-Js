@@ -104,8 +104,8 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Janarthanan-Js&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=bf91f3&icon_color=f778ba&text_color=c9d1d9&border_radius=10)](https://github.com/Janarthanan-Js)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Janarthanan-Js&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Janarthanan-Js)
+[![GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=Janarthanan-Js&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=bf91f3&icon_color=f778ba&text_color=c9d1d9&border_radius=10&cache_seconds=21600)](https://github.com/Janarthanan-Js)
+[![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Janarthanan-Js&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=21600)](https://github.com/Janarthanan-Js)
 
 </div>
 
