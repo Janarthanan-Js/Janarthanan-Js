@@ -79,13 +79,13 @@ print(me.motto())
 
 ### 🧰 Core Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,sqlite,python,c,cpp,git,github,vscode,arduino,netlify&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,sqlite,python,c,cpp,git,github,vscode,arduino,netlify&theme=dark)](https://skillicons.dev)
 
 ### 🧩 Specialties
 
 | 🔧 Tech | ✨ Skills |
 |:---|:---|
-| 🌐 **Frontend** | HTML5 · CSS3 · JavaScript |
+| 🌐 **Frontend** | HTML5 · CSS3 · JavaScript · TypeScript · React |
 | ⚙️ **Backend** | Node.js · Express · REST API |
 | 🗄️ **Database** | MySQL · SQLite |
 | 🐍 **Languages** | Python · C · C++ · Verilog |
@@ -104,8 +104,8 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janarthanan-Js&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=bf91f3&icon_color=f778ba&text_color=c9d1d9&border_radius=10)](https://github.com/Janarthanan-Js)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janarthanan-Js&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Janarthanan-Js)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Janarthanan-Js&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=bf91f3&icon_color=f778ba&text_color=c9d1d9&border_radius=10)](https://github.com/Janarthanan-Js)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Janarthanan-Js&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bf91f3&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/Janarthanan-Js)
 
 </div>
 
